@@ -49,7 +49,7 @@ public class Main {
 
         showList(personList);
 
-        personList.add(3, new Person("Maria", 29));
+        personList.add(3, new Person("Maria", 18));
         showList(personList);
 
         personList.remove(3);
